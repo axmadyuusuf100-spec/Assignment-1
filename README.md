@@ -1,4 +1,4 @@
-# PHP Practice Exercises (Q1 – Q10)
+# PHP Assignment 1 (Q1 – Q10)
 
 A collection of 10 beginner PHP exercises covering conditions (`if / elseif`), loops (`for`, `while`), number logic (LCM, HCF, prime numbers), and HTML output with `echo`.
 
